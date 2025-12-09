@@ -17,7 +17,7 @@ export default function InfrastructureRisers() {
             {/* Main Product Image Container */}
             <div className="relative z-10 aspect-square w-full rounded-2xl overflow-hidden border border-slate-100 shadow-2xl">
               <Image
-                src="/assets/piving-RISERS/piving riser 1.5201.png" // Ensure this exists
+                src="/assets/PAVING-RISERS/paving riser 1.5201.png" // Ensure this exists
                 alt="Mega Foundries piving Riser Unit"
                 fill
                 className="object-cover"

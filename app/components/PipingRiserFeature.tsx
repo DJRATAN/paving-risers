@@ -82,7 +82,7 @@ export default function PipingRiserFeature() {
             <div className="relative aspect-[4/3] lg:aspect-auto lg:h-full ">
 
               <Image
-                src="/assets/piving-RISERS/piving riser 1.5200.png" // Placeholder path
+                src="/assets/PAVING-RISERS/paving riser 1.5200.png" // Placeholder path
                 alt="Industrial Piping Riser Components"
                 layout="fill"
                 objectFit="cover"
